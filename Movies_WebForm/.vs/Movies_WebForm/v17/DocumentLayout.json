@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|C:\\Users\\spase\\source\\repos\\Movies_WebForm\\movies_webform\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\movies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\movies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|c:\\users\\spase\\source\\repos\\movies_webform\\movies_webform\\movies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{317AE38A-9977-4C96-9BFA-26B18FA6F87B}|Movies_WebForm\\Movies_WebForm.csproj|solutionrelative:movies_webform\\movies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Order.aspx.cs",
+              "RelativeDocumentMoniker": "Movies_WebForm\\Order.aspx.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Order.aspx.cs",
+              "RelativeToolTip": "Movies_WebForm\\Order.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:02:58.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "Movies_WebForm\\ShoppingCart.aspx",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\ShoppingCart.aspx",
+              "RelativeToolTip": "Movies_WebForm\\ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T13:01:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\ShoppingCart.aspx.cs",
+              "RelativeDocumentMoniker": "Movies_WebForm\\ShoppingCart.aspx.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\ShoppingCart.aspx.cs",
+              "RelativeToolTip": "Movies_WebForm\\ShoppingCart.aspx.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:00:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movies.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Movies.aspx.cs",
+              "RelativeDocumentMoniker": "Movies_WebForm\\Movies.aspx.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Movies.aspx.cs",
+              "RelativeToolTip": "Movies_WebForm\\Movies.aspx.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwHkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:57:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movies.aspx",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Movies.aspx",
+              "RelativeDocumentMoniker": "Movies_WebForm\\Movies.aspx",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Movies.aspx",
+              "RelativeToolTip": "Movies_WebForm\\Movies.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T12:56:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Categories.aspx",
+              "RelativeDocumentMoniker": "Movies_WebForm\\Categories.aspx",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Categories.aspx",
+              "RelativeToolTip": "Movies_WebForm\\Categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T12:56:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Signup.aspx",
+              "RelativeDocumentMoniker": "Movies_WebForm\\Signup.aspx",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Movies_WebForm\\Movies_WebForm\\Signup.aspx",
+              "RelativeToolTip": "Movies_WebForm\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T23:01:33.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
