@@ -1,0 +1,19 @@
+﻿@model Labs2_MVC.Models.EventModel
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Измени информации за настанот</h2>
+
+@{Html.BeginForm();}
+<div>
+   @Html.LabelFor(m => m.Name)
+   @Html.EditorFor(m => m.Name)
+</div>
+<div>
+    @Html.LabelFor(m => m.Location)
+    @Html.EditorFor(m => m.Location)
+</div>
+<button type="submit" class="btn btn-primary">Изврши измена</button>
+@{Html.EndForm();}
+@Html.ActionLink("Назад", "Index")

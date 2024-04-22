@@ -1,0 +1,19 @@
+﻿@model Labs2_MVC.Models.EventModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Додади нов настан</h2>
+
+@{Html.BeginForm();}
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Location)
+        @Html.TextBoxFor(m => m.Location)
+    </div>
+    <button type="submit" class="btn btn-primary">Додади</button>
+@{Html.EndForm();}
+@Html.ActionLink("Назад", "Index")
