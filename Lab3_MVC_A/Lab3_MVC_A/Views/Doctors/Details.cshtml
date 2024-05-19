@@ -1,0 +1,52 @@
+﻿@model Lab3_MVC_A.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameSurname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameSurname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+
+    </dl>
+</div>
+<p>Patients: </p>
+<ul>
+    @foreach(var patient in Model.Patients)
+            {
+                <li>
+                    @Html.ActionLink(patient.NameSurname,"Details/"+ patient.Id, "Patients")
+                </li>
+            }
+</ul>
+<p>
+    @Html.ActionLink("Add Pacient", "AddNewPacient", new {id = Model.Id})
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
