@@ -36,7 +36,17 @@
 
     </dl>
 </div>
+<p>Doctors: </p>
+<ul>
+    @foreach (var doctor in Model.Doctors)
+    {
+        <li>
+            @Html.ActionLink(doctor.NameSurname, "Details/" + doctor.Id, "Patients")
+        </li>
+    }
+</ul>
 <p>
+    @Html.ActionLink("Add Doctor", "AddNewDoctor", new { id = Model.Id })
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
     @Html.ActionLink("Back to List", "Index")
 </p>

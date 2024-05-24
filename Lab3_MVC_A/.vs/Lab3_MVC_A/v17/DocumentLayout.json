@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\views\\hospitals\\addnewdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\hospitals\\addnewdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\views\\doctors\\addnewpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\doctors\\addnewpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|c:\\users\\spase\\source\\repos\\lab3_mvc_a\\lab3_mvc_a\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\lab3_mvc_a\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969B091A-29EA-42D7-B680-61162E99F726}|Lab3_MVC_A\\Lab3_MVC_A.csproj|solutionrelative:lab3_mvc_a\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +70,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
-              "RelativeToolTip": "Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Hospitals\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Hospitals\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Hospitals\\Details.cshtml",
+              "RelativeToolTip": "Lab3_MVC_A\\Views\\Hospitals\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:01:23.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
-              "RelativeToolTip": "Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:00:56.372Z",
+              "WhenOpened": "2024-05-24T21:56:02.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AddNewDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Hospitals\\AddNewDoctor.cshtml",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Hospitals\\AddNewDoctor.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Hospitals\\AddNewDoctor.cshtml",
+              "RelativeToolTip": "Lab3_MVC_A\\Views\\Hospitals\\AddNewDoctor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:52:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Hospital.cs",
+              "RelativeToolTip": "Lab3_MVC_A\\Models\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:49:42.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "Lab3_MVC_A\\Controllers\\HospitalsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:43:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Lab3_MVC_A\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:39:14.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Patient.cs",
+              "RelativeToolTip": "Lab3_MVC_A\\Models\\Patient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:31:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\Doctor.cs",
+              "RelativeToolTip": "Lab3_MVC_A\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:31:53.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DoctorPatient.cs",
               "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Models\\DoctorPatient.cs",
               "RelativeDocumentMoniker": "Lab3_MVC_A\\Models\\DoctorPatient.cs",
@@ -80,37 +169,62 @@
               "RelativeToolTip": "Lab3_MVC_A\\Models\\DoctorPatient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T15:43:29.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctorsController.cs",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\DoctorsController.cs",
-              "RelativeDocumentMoniker": "Lab3_MVC_A\\Controllers\\DoctorsController.cs",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Controllers\\DoctorsController.cs",
-              "RelativeToolTip": "Lab3_MVC_A\\Controllers\\DoctorsController.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAmwA8AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T15:39:14.771Z",
+              "WhenOpened": "2024-05-19T15:43:29.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:37:47.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AddNewPatient.cshtml",
               "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\AddNewPatient.cshtml",
               "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\AddNewPatient.cshtml",
               "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\AddNewPatient.cshtml",
               "RelativeToolTip": "Lab3_MVC_A\\Views\\Doctors\\AddNewPatient.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-19T15:50:36.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "Lab3_MVC_A\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:00:56.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Lab3_MVC_A\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:01:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Delete.cshtml",
               "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\Delete.cshtml",
@@ -119,19 +233,6 @@
               "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-19T15:58:09.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\Lab3_MVC_A\\Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
-              "RelativeToolTip": "Lab3_MVC_A\\Views\\Doctors\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T15:37:47.661Z",
-              "EditorCaption": ""
             }
           ]
         }

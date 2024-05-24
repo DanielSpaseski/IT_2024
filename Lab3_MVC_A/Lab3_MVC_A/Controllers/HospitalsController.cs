@@ -13,7 +13,23 @@ namespace Lab3_MVC_A.Controllers
     public class HospitalsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
+        public ActionResult AddNewDoctor(int id) 
+        {
+            HospitalDoctor model = new HospitalDoctor();
+            model.HospitalId = id;
+            model.Doctors = db.Doctors.ToList();
+            return View(model);
+        }
 
+        [HttpPost]
+        public ActionResult AddNewDoctor(HospitalDoctor model)
+        {
+            var hospital = db.Hospitals.Find(model.HospitalId);
+            var doctor = db.Doctors.Find(model.DoctorId);
+            hospital.Doctors.Add(doctor);
+            db.SaveChanges();
+            return RedirectToAction("Details", new { id = model.HospitalId });
+        }
         // GET: Hospitals
         public ActionResult Index()
         {

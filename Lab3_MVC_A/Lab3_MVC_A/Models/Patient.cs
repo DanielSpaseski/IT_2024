@@ -15,7 +15,7 @@ namespace Lab3_MVC_A.Models
         public string NameSurname { get; set; }
         public int Age { get; set; }
         public string Gender { get; set; }
-        [Range(5,5, ErrorMessage ="Kodot mora da e tocno 5 karakteri")]
+        [MinLength(5, ErrorMessage ="Kodot mora da e tocno 5 karakteri")]
         [Display(Name ="Kod na pacientot")]
         public string Code { get; set; }
         public virtual List<Doctor> Doctors { get; set; }

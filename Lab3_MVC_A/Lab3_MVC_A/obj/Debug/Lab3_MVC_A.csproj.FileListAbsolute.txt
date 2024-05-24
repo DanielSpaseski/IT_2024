@@ -109,3 +109,4 @@ C:\Users\spase\source\repos\Lab3_MVC_A\Lab3_MVC_A\obj\Debug\Lab3_MVC_A.pdb
 C:\Users\spase\source\repos\Lab3_MVC_A\Lab3_MVC_A\obj\Debug\Lab3_MVC_A.Migrations.Initial.resources
 C:\Users\spase\source\repos\Lab3_MVC_A\Lab3_MVC_A\obj\Debug\Lab3_MVC_A.csproj.GenerateResource.cache
 C:\Users\spase\source\repos\Lab3_MVC_A\Lab3_MVC_A\obj\Debug\Lab3_MVC_A.Migrations.UpdatePatientModel.resources
+C:\Users\spase\source\repos\Lab3_MVC_A\Lab3_MVC_A\obj\Debug\Lab3_MVC_A.Migrations.UpdatePatientModel1.resources

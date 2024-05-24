@@ -8,11 +8,13 @@ namespace Lab3_MVC_A.Models
 {
     public class Hospital
     {
+        public Hospital() { Doctors = new List<Doctor>(); }
 
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
         public string ImageURL { get; set; }
+        public virtual List<Doctor> Doctors { get; set; }
     }
 }
