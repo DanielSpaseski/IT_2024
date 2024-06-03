@@ -1,0 +1,52 @@
+﻿@model MVC_Lab3_ExamVersion.Models.Hospital
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hospital</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Img_Url)
+        </dt>
+
+        <dd>
+           <img src="@Model.Img_Url" style="max-width:200px"/>
+        </dd>
+
+    </dl>
+</div>
+<h4>List of doctors:</h4>
+<ul>
+    @foreach(var doctor in Model.Doctors)
+            {
+                <li>
+                    <a href="/Doctors/Details/@doctor.Id">@doctor.Name</a>
+                    @Html.ActionLink("Delete Doctor", "DeleteDoctor", new {hospitalId=Model.Id, doctorId=doctor.Id})
+                </li>
+            }
+</ul>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

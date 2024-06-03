@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\migrations\\202406022052192_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\migrations\\202406022052192_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|c:\\users\\spase\\source\\repos\\mvc_lab3_examversion\\mvc_lab3_examversion\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77676EBE-10D2-4588-9057-20A64CC6D5E7}|MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion.csproj|solutionrelative:mvc_lab3_examversion\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:52:35.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202406022052192_Final.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Migrations\\202406022052192_Final.cs",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\Migrations\\202406022052192_Final.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Migrations\\202406022052192_Final.cs",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\Migrations\\202406022052192_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:52:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:39:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:47:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:44:51.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "MVC_Lab3_ExamVersion\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Lab3_ExamVersion\\MVC_Lab3_ExamVersion\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "MVC_Lab3_ExamVersion\\Controllers\\HospitalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:37:58.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

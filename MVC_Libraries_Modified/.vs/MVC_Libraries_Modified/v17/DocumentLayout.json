@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|c:\\users\\spase\\source\\repos\\mvc_libraries_modified\\mvc_libraries_modified\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\mvc_libraries_modified\\controllers\\librariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\controllers\\librariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|c:\\users\\spase\\source\\repos\\mvc_libraries_modified\\mvc_libraries_modified\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|c:\\users\\spase\\source\\repos\\mvc_libraries_modified\\mvc_libraries_modified\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\mvc_libraries_modified\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\mvc_libraries_modified\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\mvc_libraries_modified\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7616E3-E956-4F5A-8E56-10D75BEB39F9}|MVC_Libraries_Modified\\MVC_Libraries_Modified.csproj|solutionrelative:mvc_libraries_modified\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Views\\Authors\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:21:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:20:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrariesController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\LibrariesController.cs",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Controllers\\LibrariesController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\LibrariesController.cs",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Controllers\\LibrariesController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwFEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:55:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:55:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:54:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Libraries_Modified\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:54:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "MVC_Libraries_Modified\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MVC_Libraries_Modified\\MVC_Libraries_Modified\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "MVC_Libraries_Modified\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:52:50.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
